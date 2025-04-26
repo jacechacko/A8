@@ -9,8 +9,8 @@ import webbrowser
 
 
 #Client authentication provided in the Developer dashboard of Spotify
-Client_ID = "3295f4e71906446581288c1dca4d251f"
-Client_secret = "e946786e70424acdb8575758fef6c0ce"
+Client_ID = "Enter Client ID from Spotify.Developer.com"
+Client_secret = "Enter Client Secret from Spotify.Developer.com"
 
 
 #Establish first function, which holds authentication information.
