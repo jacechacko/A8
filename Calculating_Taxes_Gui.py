@@ -82,5 +82,3 @@ class MyGUI:
 MyGUI()
 
 
-
-#Time zone problem: Our code:
